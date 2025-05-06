@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:insta_challenge/screens/day5.dart';
+import 'package:insta_challenge/screens/day6.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-      home: Day5(),
+      home: Day6(),
     );
   }
 }
