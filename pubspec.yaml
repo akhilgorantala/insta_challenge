@@ -77,9 +77,12 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Cool
+    - family: Real
       fonts:
-        - asset: fonts/Coolvetica.otf
+        - asset: fonts/Space.ttf
+    - family: Space
+      fonts:
+        - asset: fonts/Space.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
