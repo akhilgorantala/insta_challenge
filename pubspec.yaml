@@ -83,6 +83,9 @@ flutter:
     - family: Space
       fonts:
         - asset: fonts/Space.ttf
+    - family: Lex
+      fonts:
+        - asset: fonts/Lexend.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
